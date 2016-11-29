@@ -1,0 +1,15 @@
+{
+  "name": "simple-des",
+  "version": "1.0.0",
+  "description": "体积小巧的DES加密",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:muhawo/simple-des.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiao.mu",
+  "license": "ISC"
+}
